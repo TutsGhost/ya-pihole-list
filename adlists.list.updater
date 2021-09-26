@@ -1,21 +1,9 @@
-# EasyList
-https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt
-# EasyPrivacy
-https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt
 # AdGuard Filter
 https://justdomains.github.io/blocklists/lists/adguarddns-justdomains.txt
 # block coin miners
 https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt
 # Spotify ads
 https://raw.githubusercontent.com/dfederlein/dnsbl-dfed/master/spotifyads.txt
-# Spam 404
-https://raw.githubusercontent.com/hectorm/hmirror/master/data/spam404.com/list.txt
-# AdAway
-https://raw.githubusercontent.com/hectorm/hmirror/master/data/adaway.org/list.txt
-# phishing (last 30 days)
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe
-# spam mails (phishing)
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails
 # windows telemetry
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/dnscrypt/spy.txt
 # AdGuard mobile in-app ads 
@@ -26,9 +14,37 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 # Disconnect.me SimpleTracking
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-# abuse.ch malicious domains + malware
-https://urlhaus.abuse.ch/downloads/hostfile/
-# osint.digitalside.it malicious domains + malware
-https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
-# Ads, Mobile Ads, Phishing, Malvertising, Malware, Spyware, Ransomware, CryptoJacking and some Telemetry, Analytics, Tracking
-https://dbl.oisd.nl/
+# Disconnect.me SimpleMalvertising
+https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+# Energized Basic Hosts
+https://block.energized.pro/basic/formats/hosts
+# Energized Anti-Phishing Hosts
+https://block.energized.pro/assets/sources/filter/prigent-phishing.txt
+# AnudeepND's Blacklist Hosts
+https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+# AnudeepND's Coinminer Blacklist
+https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
+# Adguard cname Trackers Blacklist
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
+# NextDNS cname-cloaking Blocklist
+https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
+# Frogeyes Firstparty-Tracker-Block
+https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+# Block-EU-Cookie-Shit-List
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Block-EU-Cookie-Shit-List.txt
+# Phishing Army Blocklist [Extended]
+https://phishing.army/download/phishing_army_blocklist_extended.txt
+# hblock Main-Hosts
+https://hblock.molinero.dev/hosts
+# Blokadas DDG-Trackerradar Blocklist
+https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt
+# Cameleon Hosts
+https://sysctl.org/cameleon/hosts
+# GoodbyeAds Main Hosts
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
+# GoodbyeAds Spotify AdBlock
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Spotify-AdBlock.txt
+# GoodbyeAds Samsung AdBlock
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Samsung-AdBlock.txt
+# Browse Websites Without Logging In
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Other%20domains%20versions/BrowseWebsitesWithoutLoggingInDomains.txt
