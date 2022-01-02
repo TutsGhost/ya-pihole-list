@@ -1,5 +1,9 @@
 # AdGuard Filter
 https://justdomains.github.io/blocklists/lists/adguarddns-justdomains.txt
+# AdGuard MobileAds
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt
+# AdGuard MobileSpyware
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt
 # block coin miners
 https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt
 # Spotify ads
