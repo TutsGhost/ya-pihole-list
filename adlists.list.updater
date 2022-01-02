@@ -6,8 +6,6 @@ https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt
 https://raw.githubusercontent.com/dfederlein/dnsbl-dfed/master/spotifyads.txt
 # windows telemetry
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/dnscrypt/spy.txt
-# AdGuard mobile in-app ads 
-https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
 # StevenBlack/hosts (adware + malware)
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Disconnect.me SimpleAd
