@@ -9,7 +9,7 @@ https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt
 # Spotify ads
 https://raw.githubusercontent.com/dfederlein/dnsbl-dfed/master/spotifyads.txt
 # windows telemetry
-https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/dnscrypt/spy.txt
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 # StevenBlack/hosts (adware + malware)
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Disconnect.me SimpleAd
