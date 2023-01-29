@@ -18,10 +18,6 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 # Disconnect.me SimpleMalvertising
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Energized Basic Hosts
-https://block.energized.pro/basic/formats/hosts
-# Energized Anti-Phishing Hosts
-https://block.energized.pro/assets/sources/filter/prigent-phishing.txt
 # AnudeepND's Blacklist Hosts
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 # AnudeepND's Coinminer Blacklist
